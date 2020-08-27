@@ -6,8 +6,8 @@ FN: Loop  Robin
 ORG:Tiefbauamt Stadt Zürich;
 TITLE:MSc ETH Geomatik-Ing.\nProjektleiter Informatik + GIS
 EMAIL;type=INTERNET;type=WORK;type=pref:robin.loop@zuerich.ch
-TEL;type=WORK;type=VOICE:+41 44 412 22 31
-item1.ADR;type=WORK;type=pref:;;Werdmühleplatz 3\nZürich;;;8001;Schweiz
+TEL;type=WORK;type=VOICE:+41444122231
+item1.ADR;type=WORK;type=pref:;;Werdmühleplatz 3;;;8001 Zürich;Schweiz
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.stadt-zuerich.ch/ted/de/index/taz.html
 item2.X-ABLabel:_$!<HomePage>!$_
